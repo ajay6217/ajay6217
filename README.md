@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
                                        
                                        
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajay6217&show_icons=true&theme=onedark" alt="ajay6217" /></p>
 
 
 
