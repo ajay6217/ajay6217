@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-🔭 I’m currently working on something fun</li>
-🌱 I’m currently learning and upgrading my skills</li>
-💬 Ask me about DSA, Web development and ML</li>
+<p>🔭 I’m currently working on something fun</p>
+<p>🌱 I’m currently learning and upgrading my skills</p>
+<p>💬 Ask me about DSA, Web development and ML</p>
 
 </div>
 
