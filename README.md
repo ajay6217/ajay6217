@@ -5,10 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on something fun
-- 🌱 I’m currently learning and upgrading my skills
-- 💬 Ask me about DSA, Web development and ML
-
+<ul align="centre">
+<li>🔭 I’m currently working on something fun</li>
+<li>🌱 I’m currently learning and upgrading my skills</li>
+<li>💬 Ask me about DSA, Web development and ML</li>
+</ul>
 
 
                                        
