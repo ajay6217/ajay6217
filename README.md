@@ -15,9 +15,9 @@ Here are some ideas to get you started:
                                        
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ajay6217&show_icons=true&theme=onedark" alt="ajay6217" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajay6217" alt="ajay6217" /> </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay6217&theme=onedark&langs_count=7&hide=Jupiter_Notebook" alt="ajay6217" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay6217&theme=onedark&langs_count=7&hide=R&hideprogress=True" alt="ajay6217" /></p>
 
 
