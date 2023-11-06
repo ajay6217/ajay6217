@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 <p>💬 Ask me about DSA, Web development and ML</p>
 
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay6217&theme=onedark&langs_count=8&hide=R&hide_progress=True" alt="ajay6217" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay6217&theme=onedark&langs_count=8&hide=R&hide_progress=True&title=Languages_used" alt="ajay6217" /></p>
 
 
